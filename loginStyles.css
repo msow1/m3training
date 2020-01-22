@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+.display {
+	background-color: #bee2eb;
+	text-align: center;
+	padding: 3rem;
+	margin: 4rem;
+}
+form {
+	margin: 0 auto;
+	width: 800px;
+	text-align: left;
+}
+
+div{
+	text-align: left;
+}
+button{
+    column-rule-width: 6cm;
+    color: rgb(15, 17, 17);
+	background-color: rgb(224, 222, 223);
+	box-sizing: border-box;
+	letter-spacing: 0.06cm;
+	line-height: 0.6cm;
+	width: 3cm;
+	text-decoration-style: solid;
+	align-self: center;
+
+}
+
+input{
+	block-size: 5cm;
+	width: 7cm;
+	line-height: 1cm;
+	background-color: #f5eff2;
+	text-align: left
+	
+}
+
