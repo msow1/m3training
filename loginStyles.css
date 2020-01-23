@@ -29,9 +29,9 @@ button{
 }
 
 input{
-	block-size: 3cm;
-	width: 3cm;
-	line-height: 1cm;
+	block-size: 6cm;
+	width: 6cm;
+	line-height: 0.5cm;
 	background-color: #f5eff2;
 	text-align: left
 	
